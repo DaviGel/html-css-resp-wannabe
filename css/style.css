@@ -151,7 +151,7 @@ img {
   .container {
     /* Commento questa regola in quanto avendo risolto il bonus (fino a 1160px) la regola viene ereditata anche quì
     width: 100vw; */
-    padding: 0 40px;
+    padding: 0 80px;
   }
 
   .row {
