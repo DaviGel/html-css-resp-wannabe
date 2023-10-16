@@ -151,7 +151,7 @@ img {
   .container {
     /* Commento questa regola in quanto avendo risolto il bonus (fino a 1160px) la regola viene ereditata anche quì
     width: 100vw; */
-    padding: 0 80px;
+    padding: 0 5rem;
   }
 
   .row {
@@ -167,7 +167,7 @@ img {
   }
 
   .card {
-    margin-bottom: 50px;
+    margin-bottom: 3.125rem;
   }
 
   .steps {
