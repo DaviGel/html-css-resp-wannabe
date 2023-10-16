@@ -171,12 +171,12 @@ img {
   }
 
   .steps {
-    margin-bottom: -48px;
+    margin-bottom: 0;
   }
 
   .why-us {
     background-color: #222222;
-    margin-bottom: -48px;
-    padding: 48px 0;
+    margin-bottom: 0;
+    padding: 3rem 0 2.5rem 0;
   }
 }
